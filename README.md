@@ -2,7 +2,7 @@
 
 
 ## A clean, beautiful, and responsive portfolio template for Developers!
-<img width="908" alt="image" src="![alt text](![image](https://github.com/user-attachments/assets/dd45c5e6-2860-4499-85ff-d00e3d743043)
+<img width="908" alt="image" src="(![image](https://github.com/user-attachments/assets/dd45c5e6-2860-4499-85ff-d00e3d743043)
 )">
 
 
