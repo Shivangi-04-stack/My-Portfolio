@@ -2,7 +2,8 @@
 
 
 ## A clean, beautiful, and responsive portfolio template for Developers!
-<img width="908" alt="image" src="![alt text](image.png)">
+<img width="908" alt="image" src="![alt text](![image](https://github.com/user-attachments/assets/dd45c5e6-2860-4499-85ff-d00e3d743043)
+)">
 
 
 Welcome to the Freelance Web Developer Portfolio Template, an open-source project to help web developers showcase their skills and work in a professional manner. This template provides a customizable and responsive portfolio website, allowing you to create a stunning online presence to attract clients and employers.
