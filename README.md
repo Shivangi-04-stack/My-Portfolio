@@ -103,7 +103,7 @@ Let's connect on my [Github](https://github.com/Shivangi-04-stack) for more such
 	<tr>
 		<td align="center">
 			<a href="https://github.com/Shivangi-04-stack">
-				<img src="#" width="100px" alt="" />
+				<img src="myImage" width="100px" alt="" />
 				<br /> <sub><b>Shivangi Kumari</b></sub>
 			</a>
 			<br /> <a href="https://github.com/Shivangi-04-stack"> 
