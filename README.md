@@ -2,8 +2,7 @@
 
 
 ## A clean, beautiful, and responsive portfolio template for Developers!
-<img width="908" alt="image" src="(![image](https://github.com/user-attachments/assets/dd45c5e6-2860-4499-85ff-d00e3d743043)
-)">
+
 
 
 Welcome to the Freelance Web Developer Portfolio Template, an open-source project to help web developers showcase their skills and work in a professional manner. This template provides a customizable and responsive portfolio website, allowing you to create a stunning online presence to attract clients and employers.
@@ -104,7 +103,7 @@ Let's connect on my [Github](https://github.com/Shivangi-04-stack) for more such
 	<tr>
 		<td align="center">
 			<a href="https://github.com/Shivangi-04-stack">
-				<img src="myImage" width="100px" alt="" />
+				<img src="#" width="100px" alt="" />
 				<br /> <sub><b>Shivangi Kumari</b></sub>
 			</a>
 			<br /> <a href="https://github.com/Shivangi-04-stack"> 
